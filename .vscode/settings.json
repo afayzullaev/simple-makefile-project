@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/al/Projects/Makefile",
+            "binaryPath": "/home/al/Projects/Makefile/MyProject",
+            "binaryArgs": []
+        }
+    ]
+}
